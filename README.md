@@ -29,4 +29,4 @@ ___
 
 ## Vista de lista de mi objeto personalizado
 
-[Ver todos los registros en HubSpot](https://app.hubspot.com/contacts/49692883/objects/0-1/views/all/list)
+[Ver todos los registros en HubSpot](https://app.hubspot.com/contacts/50553922/objects/0-1/views/all/list)
